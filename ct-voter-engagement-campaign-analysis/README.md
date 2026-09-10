@@ -32,7 +32,7 @@ The final demographic dataset represented a weighted population estimate of **62
 
 ## Dashboard
 
-[View the interactive Tableau dashboard](https://public.tableau.com/views/ConnecticutYoungAdultDemographics2022ACSPUMS/AdvancedDemographics?:language=en-US&:display_count=n&:origin=viz_share_link)
+[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/jethro.asinas/viz/ConnecticutYoungAdultDemographics2022ACSPUMS/MainDemographics)
 
 ## Key Findings
 
