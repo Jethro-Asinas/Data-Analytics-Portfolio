@@ -1,5 +1,12 @@
 # Connecticut Young Adult Voter Engagement Analysis
 
+<img width="1920" height="1080" alt="Connecticut Young Adult Voter Engagement Analysis cover" src="https://github.com/user-attachments/assets/4d31a3a2-af5e-40cd-b980-9c7ce2ea48fe" />
+
+## Quick Project Summary
+
+During my UConn Beachball Agency internship, my team partnered with the Connecticut Secretary of the State to encourage municipal voting among young adults. As the team’s sole data analyst, I used 2022 American Community Survey data to profile Connecticut residents ages 18–30. My analysis identified trends of pursuing higher education and employment in lower-wage occupations, helping shape a social media campaign that connected voting with education and workplace issues affecting young adults.
+
+
 ## Project Overview
 
 During my internship with the UConn Beachball Agency, my team worked with the Connecticut Secretary of the State on a social media campaign intended to encourage greater participation in municipal voting. The client wanted to reach a younger audience, so our team was tasked with developing social media graphics that would make municipal voting feel more relevant and approachable.
@@ -60,7 +67,7 @@ These findings gave the team a reason to discuss bilingual materials, plain-lang
 
 Based on the available data, I identified education and employment as two useful themes for the team's early strategy discussions. I recommended exploring posts that connected municipal participation with local education resources and everyday economic concerns while keeping the instructions short, accessible, and easy to understand.
 
-These recommendations were starting points rather than conclusions about why people vote. The ACS described the audience but did not measure political attitudes, voting barriers, or campaign response. Those questions would require surveys, interviews, voter data, or campaign testing.
+These recommendations were starting points rather than conclusions about why people should vote. The ACS described the audience but did not measure political attitudes, voting barriers, or campaign response. Those questions would require surveys, interviews, voter data, or campaign testing.
 
 ## Outcome
 
